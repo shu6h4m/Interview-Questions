@@ -34,13 +34,13 @@
    * Describe the Risk Management Framework process and a project where you successfully implemented compliance with RMF.
    * How does a packet travel between two hosts connected in same network?
    * Explain the difference between TCP and UDP. 
-   * Which is more secure and why?
+   * Which is more secure and why ?
    * What is the TCP three way handshake?
-   * What is the difference between IPSEC Phase 1 and Phase 2?
-   * What are biggest AWS security vulnerabilities?
-   * How do web certificates for HTTPS work?
-   * What is the purpose of TLS?
-   * Is ARP UDP or TCP?
+   * What is the difference between IPSEC Phase 1 and Phase 2 ?
+   * What are biggest AWS security vulnerabilities ?
+   * How do web certificates for HTTPS work ?
+   * What is the purpose of TLS ?
+   * Is ARP UDP or TCP ?
    * Explain what information is added to a packet at each stop of the 7 layer OSI model.
    * Walk through a whiteboard scenario for your environment of choice (Win/Linux) in which compromising the network is the goal without use of social engineering techniques (phishing for credential harvesting, etc).
    * Explain how you would build a web site that could secure communications between a client and a server and allow an authorized user to read the communications securely.
