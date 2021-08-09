@@ -2,7 +2,7 @@
    
    * What is a three-way handshake ?
    * How do cookies work ?
-   * How do sessions work?
+   * How do sessions work ?
    * Explain how OAuth works.
    * What is a public key infrastructure flow and how would I diagram it?
    * Describe the difference between synchronous and asynchronous encryption.
