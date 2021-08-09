@@ -1,7 +1,7 @@
 # Encryption and Authentication
    
    * What is a three-way handshake ?
-   * How do cookies work?
+   * How do cookies work ?
    * How do sessions work?
    * Explain how OAuth works.
    * What is a public key infrastructure flow and how would I diagram it?
